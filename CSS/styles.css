@@ -1,0 +1,149 @@
+body{
+  background-color: #000;
+    margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+    
+}
+
+nav ul li {
+  margin-right: 15px;
+    
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+    
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+.aboutmeandfontcolor{
+    width: 1100px;
+    height: 600px;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    padding: 25px;
+    background-color: #333;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 300%;
+    color: darkseagreen;
+    border-radius: 40px;
+}
+.homesmall{
+    width: 1100px;
+    height: 600px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    padding: 25px;
+    background-color: #333;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 450%;
+    color: darkseagreen;
+    border-radius: 40px;
+}
+.aanshpic1{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    width: 370px;
+    border-radius: 40px;
+}
+.pepeha{
+    position: absolute;
+    top: 150px;
+    left: 1180px;
+    width: 350px;
+}
+.indiafamily{
+    position: absolute;
+    top: 200px;
+    left: 1550px;
+    width: 360px;
+    border-radius: 40px;
+}
+.altezza{
+    position: absolute;
+    top: 600px;
+    left: 1550px;
+    width: 350px;
+    border-radius: 40px;
+}
+.gamer{
+    position: absolute;
+    top: 600px;
+    left: 1205px;
+    width: 270px;
+    border-radius: 40px;
+}
+.contact{
+    width: 1868px;
+    height: 600px;
+    position: absolute;
+    top: 240px;
+    left: 0px;
+    padding: 25px;
+    background-color: #333;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 500%;
+    color: darkseagreen;
+    border-radius: 40px;
+}
+.discord{
+    position: absolute;
+    top: 0px;
+    left: 1050px;
+    width: 150px;
+    border-width: 5px!important;
+    border-radius: 23px;
+    border-color: blue
+}
+.phone{
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    width: 110px;
+    border-width: 5px!important;
+    border-radius: 23px;
+}
+.outlook{
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    width: 150px;
+    border-width: 5px!important;
+}
